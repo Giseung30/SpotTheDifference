@@ -20,7 +20,7 @@
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208251257-997ed299-f397-496c-bedd-7fe7aafd46c7.png"/>
 </div>
 
-- __영상__
+- __동영상__
 <div align="center">
   <a href="https://www.youtube.com/watch?v=RY-BMeURcVA"></a>
 </div>
