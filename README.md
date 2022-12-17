@@ -22,5 +22,5 @@
 
 - __동영상__
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=RY-BMeURcVA"></a>
+  <a href="https://www.youtube.com/watch?v=RY-BMeURcVA"><img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208252517-d4e4e5d1-a135-4ecd-ba26-f806bea93c1c.png"/></a>
 </div>
