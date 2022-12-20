@@ -25,5 +25,5 @@
 
 + **동영상**
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=RY-BMeURcVA"><img width="50%" height="50%" src="https://user-images.githubusercontent.com/60832219/208252669-87c38259-27ec-4153-9ac4-560d40d64846.png"/></a>
+  <a href="https://youtu.be/RY-BMeURcVA"><img width="50%" height="50%" src="https://user-images.githubusercontent.com/60832219/208252669-87c38259-27ec-4153-9ac4-560d40d64846.png"/></a>
 </div>
